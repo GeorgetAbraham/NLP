@@ -1,0 +1,2 @@
+Enter Hinglish Text: Hindi output :  मज़ेदार्
+Romanized output:  mazaedaar
